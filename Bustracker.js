@@ -27,7 +27,7 @@ let map = new mapboxgl.Map({
   container: 'map', 
   style: 'mapbox://styles/mapbox/streets-v11', 
   center: [-97.651578632876, 30.336418601648], 
-  zoom: 14
+  zoom: 19
 });
   // Marker added to the map at the first coordinates in the array busStops. 
 var marker = new mapboxgl.Marker()
